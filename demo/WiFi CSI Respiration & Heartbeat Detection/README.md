@@ -1,13 +1,3 @@
----
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: 'a236ed56-fa17-4550-9c50-16a64fcbd95d'
-  PropagateID: 'a236ed56-fa17-4550-9c50-16a64fcbd95d'
-  ReservedCode1: '5194f5d2-badd-4cc5-931d-3e93ddee9e5b'
-  ReservedCode2: '5194f5d2-badd-4cc5-931d-3e93ddee9e5b'
----
 
 # 🫁 WiFi CSI Respiration & Heartbeat Detection — Validation Code
 
